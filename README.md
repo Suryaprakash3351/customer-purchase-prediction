@@ -1,0 +1,2 @@
+# Customer Purchase Prediction & Behaviour Analysis
+A machine learning mini project built for the Zeravia Machine Learning with Python training program. It analyzes retail customer data (demographics, engagement, and purchase history) to predict whether a customer is likely to make a purchase, using Logistic Regression for classification and Linear Regression for spend estimation. The project covers the full workflow — data cleaning, exploratory analysis, visualization, preprocessing, model building, evaluation, and business recommendations.
